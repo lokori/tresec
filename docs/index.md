@@ -19,9 +19,9 @@ The same format as before - we will have talks, discussions, some refreshments. 
 
 ### Talks / topics
 
-* ”steganography beyond ctf” by Akseli Piilola
-* "Gas gas gas! - Testing gas stations for information security" by Heikki Stark, Auditor @ Nixu
-* "fuzzing", Atte Kettunen
+* *Steganography beyond CTF* by Akseli Piilola
+* *Gas gas gas! - Testing gas stations for information security* by Heikki Stark, Auditor @ Nixu
+* *"fuzzing"*, Atte Kettunen
 
 
 ## Meetup 02 / 2020, 28.5.
