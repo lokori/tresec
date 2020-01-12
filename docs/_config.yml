@@ -1,3 +1,5 @@
 theme: jekyll-theme-hacker
 title: TreSec - Tampere Security Community
-description: Homepage for the TreSec 
+description: Homepage for the TreSec
+github:
+  is_project_page: false
