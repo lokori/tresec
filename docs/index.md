@@ -4,7 +4,7 @@ layout: default
 
 We are still here: [TreSec at meetup.com](https://www.meetup.com/TreSec/).
 
-We are also in [CitySec Mattermost](https://citysec.disobey.fi/), courtesy of [Disobey](https://www.disobey.fi).
+Chatting is possible at [CitySec Mattermost](https://citysec.disobey.fi/), courtesy of [Disobey](https://www.disobey.fi).
 
 Check out the other CitySec groups at [CitySec.fi](https://citysec.fi/).
 
